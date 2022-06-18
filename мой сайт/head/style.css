@@ -1,0 +1,31 @@
+img { 
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+
+}
+form{
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    text-align: center;
+    
+
+   
+}
+    label {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    }
+
+body {
+    background-image: url(photo/11.jpg);
+  
+    
+
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    font-style: initial;
+    font-weight: 1000;
+}
